@@ -34,7 +34,7 @@
 
 | My Streak                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolariel&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | [![GitHub Streak](https://streak-stats.demolab.com/?user=caiolariel&theme=great-gatsby)](https://git.io/streak-stats) 
+|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolariel&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | 
 
 💬 Get in Contact:
 
