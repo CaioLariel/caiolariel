@@ -32,9 +32,9 @@
 
 ### 📈 My Statistics
 
-                                                                                                                                                        | Top Languages                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolariel&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | 
+| Top Languages                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) |
 
 💬 Get in Contact:
 
