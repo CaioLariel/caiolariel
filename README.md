@@ -32,7 +32,7 @@
 
 ### 📈 My Statistics
 
-| My Streak                                                                                                                                                            | Top Languages                                                                                                                                                                    |
+                                                                                                                                                        | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caiolariel&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | 
 
