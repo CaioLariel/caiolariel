@@ -9,7 +9,7 @@
 
 <p>
   <em>
-    I'm 19 years old, from São Paulo and currently studying Bachelor of Science in Information Systems and Developing at Senac.
+    I'm 20 years old, from São Paulo and currently studying Bachelor of Science in Information Systems and Developing at Senac.
   </em>
 </p>
 
